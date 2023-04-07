@@ -1,0 +1,1 @@
+# Patika_PostgreSQL_odev7
